@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop Yonetim Sistemi", "PetShop Yonetim Sistemi\PetShop Yonetim Sistemi.csproj", "{1C103D20-6905-41CC-9155-2E1720406F11}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PetShopSetup", "PetShopSetup\PetShopSetup.vdproj", "{4842D061-5AAA-41A7-ADDB-724EB191BE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C103D20-6905-41CC-9155-2E1720406F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C103D20-6905-41CC-9155-2E1720406F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C103D20-6905-41CC-9155-2E1720406F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C103D20-6905-41CC-9155-2E1720406F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4842D061-5AAA-41A7-ADDB-724EB191BE6E}.Debug|Any CPU.ActiveCfg = Debug
+		{4842D061-5AAA-41A7-ADDB-724EB191BE6E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F770891-1CC6-4F53-8CBC-FA19767CC759}
+	EndGlobalSection
+EndGlobal
